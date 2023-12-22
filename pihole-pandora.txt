@@ -20,3 +20,4 @@
 0.0.0.0 stats.pandora.com
 0.0.0.0 lt501.tritondigital.com
 0.0.0.0 z.moatads.com
+0.0.0.0 delivery-cdn-cf.adswizz.com
